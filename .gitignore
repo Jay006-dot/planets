@@ -1,1 +1,3 @@
-a.csv
+!*.csv
+!results/
+!moons/
